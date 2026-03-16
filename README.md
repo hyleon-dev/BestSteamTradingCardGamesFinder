@@ -50,13 +50,13 @@ I believe the blocking depends on your IP address and not on the used country co
 
 ## The branches
 
-### [dev](https://github.com/n0eL1405/BestSteamTradingCardGamesFinder/tree/dev)
+### [dev](https://github.com/hyleon-dev/BestSteamTradingCardGamesFinder/tree/dev)
 Always the latest state of the code. Whenever I stop coding, I will push the code to this branch. The code may or may not work.
 
-### [master](https://github.com/n0eL1405/BestSteamTradingCardGamesFinder/tree/master)
+### [master](https://github.com/hyleon-dev/BestSteamTradingCardGamesFinder/tree/master)
 This code is always buildable and runnable. The features in this branch are all working, and you could compile and use the programm from this branch without any problems (except hidden bugs). But there may be features that are useless, because other features are still in development.
 
-### [release](https://github.com/n0eL1405/BestSteamTradingCardGamesFinder/tree/release/v1.0)
+### [release](https://github.com/hyleon-dev/BestSteamTradingCardGamesFinder/tree/release/v1.0)
 All branches in this folder represent a release version of the programm. If you want to check the code of a specific version, you can do it there. Once a branch is created in the folder, it will never be changed (except I find some critical stuff that really shouldn't be public in these branches).
 
 ---
